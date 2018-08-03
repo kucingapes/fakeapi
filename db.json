@@ -14,6 +14,21 @@
         "img3": "https://kucingapes.github.io/repocilacap/benteng/benteng6.png",
         "img": "https://kucingapes.github.io/repocilacap/benteng/benteng3.png"
       }
+    },
+    {
+      "id": "1",
+      "nama": "Benteng Lingkar",
+      "lat": "-7.726257",
+      "lng": "108.9043153",
+      "alamat": "Pulau Nusakambangan",
+      "region": "Cilacap Selatan",
+      "keterangan": "Benteng Lingkar dibangun pada tahun 1617 dan didirikan bersamaan dengan Benteng Karang Bolong.\n\nBenteng Lingkar merupakan benteng yang lebih kecil dibandingkan dengan Benteng Karang Bolong.\n\nStruktur bangunannya saat ini sudah banyak yang rusak, sehingga tidak diketahui bentuk asli dari benteng ini.\n\nUntuk menuju ke Benteng Lingkar, wisatawan bisa menyewa jasa penyeberangan pulau menggunakan perahu yang berada di kawasan Pantai Teluk Penyu.",
+      "image": {
+        "img1": "https://kucingapes.github.io/repocilacap/benling/benling2.png",
+        "img2": "https://kucingapes.github.io/repocilacap/benling/benling3.png",
+        "img3": "https://kucingapes.github.io/repocilacap/benling/benling4.png",
+        "img": "https://kucingapes.github.io/repocilacap/benling/benling1.png"
+      }
     }
   ]
 }
