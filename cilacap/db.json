@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": "0",
+      "nama": "Benteng Pendem",
+      "lat": "-7.7492326",
+      "lng": "109.0172697",
+      "alamat": "Jl. Benteng",
+      "region": "Cilacap Selatan",
+      "keterangan": "Dalam bahasa Belanda disebut Kusbatterij Op De Lantong Te Tjilatjap.\n\nDibangun oleh Tentara Kerajaan Belanda tahun 1861-1879 untuk pertahanan Belanda dalam menghadapi serangan musuh, baik dari luar maupun dari dalam sampai dengan tahun 1942.\n\nPada tahun 1952-1962 menjadi markas Banteng Loreng Kesatuan Jawa Tengah dan pada tahun 1962-1965 menjadi tempat pendaratan laut pasukan RPKAD.\n\nPada tangal 26 November 1986, Benteng Pendem dipugar dan pada tanggal 28 April 1987 sampai dengan sekarang dibuka sebagai obyek wisata.",
+      "image": {
+        "img1": "https://kucingapes.github.io/repocilacap/benteng/benteng4.png",
+        "img2": "https://kucingapes.github.io/repocilacap/benteng/benteng5.png",
+        "img3": "https://kucingapes.github.io/repocilacap/benteng/benteng6.png",
+        "img": "https://kucingapes.github.io/repocilacap/benteng/benteng3.png"
+      }
+    }
+  ]
+}
